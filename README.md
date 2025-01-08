@@ -8,7 +8,9 @@ Ini adalah kumpulan template HTML yang dapat digunakan untuk berbagai keperluan 
 
 1. **Template Authentication** : Template ini mencakup elemen-elemen dasar untuk halaman autentikasi, seperti formulir login, formulir register dll.
 
-2. **Template Owl Carousel**: Template dengan integrasi **Owl Carousel** untuk menampilkan slider atau carousel gambar dan konten responsif.
+2. **Component Owl Carousel**: Component iin menggunakan **Owl Carousel** untuk menampilkan slider atau carousel gambar dan konten responsif.
+
+3. **Component QuillJS**: Komponen ini menggunakan **QuillJS** untuk membuat text editor yang dapat diedit.
 
 ---
 
